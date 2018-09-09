@@ -16,6 +16,7 @@ To acquire dependencies, run:
 mix deps.get
 ```
 
+You can build the `./base16_builder` script by running `make`
 ## Usage
 
 ### Docker
